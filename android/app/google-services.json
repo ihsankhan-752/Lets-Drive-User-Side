@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1068699943480",
+    "firebase_url": "https://lets-drive-3a5f4-default-rtdb.firebaseio.com",
+    "project_id": "lets-drive-3a5f4",
+    "storage_bucket": "lets-drive-3a5f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068699943480:android:3eb384f9c11173512f1ccd",
+        "android_client_info": {
+          "package_name": "com.example.lets_drive_user_side"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKvRxb6woN7TWUowvUY46qEtAF7gjbiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068699943480:android:e37a484c97529c512f1ccd",
+        "android_client_info": {
+          "package_name": "com.iktechsol.lets_drive_driver_side"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKvRxb6woN7TWUowvUY46qEtAF7gjbiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
